@@ -1,0 +1,11 @@
+{
+  "name": "empire",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "modernizr": "~2.8.2",
+    "velocity": "1.2.1",
+    "jquery-waypoints": "2.0.5",
+    "flexslider": "*"
+  }
+}
