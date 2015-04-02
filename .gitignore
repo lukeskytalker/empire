@@ -1,3 +1,7 @@
 node_modules
 dist
 .tmp
+<<<<<<< HEAD
+=======
+bower_components
+>>>>>>> 0a4c3194e1d55cb1a9786de248d817b5eec05612
